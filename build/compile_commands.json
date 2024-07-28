@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/abby/repos/the_art_of_unit_testing_in_cpp/build",
+  "command": "/usr/bin/clang++-16 -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -DFMT_HEADER_ONLY -I/home/abby/repos/the_art_of_unit_testing_in_cpp/include -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/doctest -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/fmt/include -Wall -ggdb3   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o tests/CMakeFiles/test.dir/ch2/log_analyzer.test.cpp.o -c /home/abby/repos/the_art_of_unit_testing_in_cpp/tests/ch2/log_analyzer.test.cpp",
+  "file": "/home/abby/repos/the_art_of_unit_testing_in_cpp/tests/ch2/log_analyzer.test.cpp"
+},
+{
+  "directory": "/home/abby/repos/the_art_of_unit_testing_in_cpp/build",
+  "command": "/usr/bin/clang++-16 -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -DFMT_HEADER_ONLY -I/home/abby/repos/the_art_of_unit_testing_in_cpp/include -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/doctest -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/fmt/include -Wall -ggdb3   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o tests/CMakeFiles/test.dir/ch2/mem_calculator.test.cpp.o -c /home/abby/repos/the_art_of_unit_testing_in_cpp/tests/ch2/mem_calculator.test.cpp",
+  "file": "/home/abby/repos/the_art_of_unit_testing_in_cpp/tests/ch2/mem_calculator.test.cpp"
+},
+{
+  "directory": "/home/abby/repos/the_art_of_unit_testing_in_cpp/build",
+  "command": "/usr/bin/clang++-16 -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -DFMT_HEADER_ONLY -I/home/abby/repos/the_art_of_unit_testing_in_cpp/include -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/doctest -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/fmt/include -Wall -ggdb3   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o tests/CMakeFiles/test.dir/ch3/log_analyzer.test.cpp.o -c /home/abby/repos/the_art_of_unit_testing_in_cpp/tests/ch3/log_analyzer.test.cpp",
+  "file": "/home/abby/repos/the_art_of_unit_testing_in_cpp/tests/ch3/log_analyzer.test.cpp"
+},
+{
+  "directory": "/home/abby/repos/the_art_of_unit_testing_in_cpp/build",
+  "command": "/usr/bin/clang++-16 -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -DFMT_HEADER_ONLY -I/home/abby/repos/the_art_of_unit_testing_in_cpp/include -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/doctest -I/home/abby/repos/the_art_of_unit_testing_in_cpp/external/fmt/include -Wall -ggdb3   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o tests/CMakeFiles/test.dir/test.cpp.o -c /home/abby/repos/the_art_of_unit_testing_in_cpp/tests/test.cpp",
+  "file": "/home/abby/repos/the_art_of_unit_testing_in_cpp/tests/test.cpp"
+}
+]

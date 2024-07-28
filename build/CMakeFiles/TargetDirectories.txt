@@ -1,0 +1,8 @@
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/CMakeFiles/intrinsics_gen.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/CMakeFiles/omp_gen.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/CMakeFiles/acc_gen.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/CMakeFiles/edit_cache.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/tests/CMakeFiles/test.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/tests/CMakeFiles/edit_cache.dir
+/home/abby/repos/the_art_of_unit_testing_in_cpp/build/tests/CMakeFiles/rebuild_cache.dir

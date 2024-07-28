@@ -1,0 +1,9 @@
+# ninja log v5
+1	670	1722160543952746392	tests/CMakeFiles/test.dir/ch3/log_analyzer.test.cpp.o	daca3dfd20ac4bb5
+671	774	1722160544062746394	tests/test	b0b2f1327c92627f
+0	1178	1722138949042338315	tests/CMakeFiles/test.dir/test.cpp.o	84ea85612656f25c
+0	1408	1722090165904402747	tests/CMakeFiles/test.dir/ch2/test.cpp.o	20d2f037f3f2426b
+0	713	1722138948582338307	tests/CMakeFiles/test.dir/ch2/mem_calculator.test.cpp.o	868a23f81ea6448c
+0	690	1722144386742441071	tests/CMakeFiles/test.dir/ch2/log_analyzer.test.cpp.o	508a8ba63398e58
+0	688	1722173454702990365	tests/CMakeFiles/test.dir/ch2/log_analyzer.test.cpp.o	508a8ba63398e58
+688	789	1722173454802990367	tests/test	b0b2f1327c92627f
